@@ -1,9 +1,0 @@
-diff a/Proj/Proj/html/ing9.html b/Proj/Proj/html/ing9.html	(rejected hunks)
-@@ -12,6 +12,7 @@
-         </nav>
-         <div>
-             <button>
-+                head
-             </button>
-         </div>    
-         <div>
